@@ -2,7 +2,7 @@
 
 ## Group Members:
 Casey Cuprynski - cjc183@pitt.edu
-<br/> Amy Lin -
+<br/> Amy Lin -  acl72@pitt.edu
 <br/> Sara Nill -
 
 ## Datasets:
@@ -10,3 +10,5 @@ Casey Cuprynski - cjc183@pitt.edu
 https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 ### Landslide Prone Areas:
 https://data.wprdc.org/dataset/landslide-prone-areas
+### City Bridges:
+https://data.wprdc.org/dataset/city-of-pittsburgh-bridges
