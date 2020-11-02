@@ -2,7 +2,7 @@
 
 ## Group Members:
 Casey Cuprynski - cjc183@pitt.edu
-<br/> Amy Lin -
+<br/> Amy Lin - acl72@pitt.edu
 <br/> Sara Nill -
 
 ## Datasets:
