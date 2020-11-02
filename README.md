@@ -2,8 +2,8 @@
 
 ## Group Members:
 Casey Cuprynski - cjc183@pitt.edu
-Amy Lin -
-Sara Nill -
+<br/> Amy Lin -
+<br/> Sara Nill -
 
 ## Datasets:
 ### Fire Incidents:
